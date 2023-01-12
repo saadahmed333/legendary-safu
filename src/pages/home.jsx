@@ -1,8 +1,18 @@
 import Giveaway from "../sections/giveaway";
+import About from "../sections/about";
+import Games from "../sections/games";
 function Home() {
   return (
     <div>
-      <Giveaway />
+      <div>
+        <Giveaway />
+      </div>
+      <div>
+        <About />
+      </div>
+      <div>
+        <Games />
+      </div>
     </div>
   );
 }
