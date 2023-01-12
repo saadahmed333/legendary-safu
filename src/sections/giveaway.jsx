@@ -63,7 +63,7 @@ const Giveaway = () => {
                     <p className="text-[25px] lg:text-[30px] font-bold">BUY</p>
                   </div>
                 </div>
-                <div className="text-center">
+                <div className="text-center flex justify-center">
                   <p className="w-[250px] md:w-[200px] mt-[10px]">
                     Mint or BUY LSC NFT in the secondary market
                   </p>
@@ -94,7 +94,7 @@ const Giveaway = () => {
                     <p className="text-[25px] lg:text-[30px] font-bold">Hold</p>
                   </div>
                 </div>
-                <div className="text-center">
+                <div className="text-center flex justify-center">
                   <p className="w-[250px] md:w-[200px] md:ml-[50px] mt-[10px]">
                     Hold the NFT and participate automatically in weekly
                     giveaways
@@ -128,7 +128,7 @@ const Giveaway = () => {
                     </p>
                   </div>
                 </div>
-                <div className="text-center">
+                <div className="text-center flex justify-center">
                   <p className="w-[250px] md:w-[200px] md:ml-[50px] mt-[10px]">
                     Receive rewards weekly in Vulcan and other
                   </p>
